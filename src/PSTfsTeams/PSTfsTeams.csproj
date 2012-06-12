@@ -39,6 +39,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddUserCmdlet.cs" />
     <Compile Include="CreateTeamCmdlet.cs" />
     <Compile Include="TeamProjectCmdlet.cs" />
     <Compile Include="ListTeamCmdlet.cs" />
